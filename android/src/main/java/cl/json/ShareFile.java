@@ -4,8 +4,8 @@ import android.database.Cursor;
 import android.net.Uri;
 import android.os.Environment;
 import android.provider.MediaStore;
-import android.support.v4.content.CursorLoader;
-import android.support.v4.content.FileProvider;
+import androidx.loader.content.CursorLoader
+import androidx.core.content.FileProvider
 import android.util.Base64;
 import android.webkit.MimeTypeMap;
 
